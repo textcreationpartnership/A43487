@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hey for Horn Fair, the general market of England, or, Room for cuckolds being a merry progress of nine several sorts of cuckolds here discovered ... : full of mirth and merry discourse, newly presented from Horn Fair to all the merry good fellows in England : to which is added, The marriage of Jockie and Jenny.</title>
+            <author>T. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43487</idno>
+            <idno type="STC">Wing H1658A</idno>
+            <idno type="STC">ESTC R8638</idno>
+            <idno type="EEBO-CITATION">12273586</idno>
+            <idno type="OCLC">ocm 12273586</idno>
+            <idno type="VID">58378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58378)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 187:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hey for Horn Fair, the general market of England, or, Room for cuckolds being a merry progress of nine several sorts of cuckolds here discovered ... : full of mirth and merry discourse, newly presented from Horn Fair to all the merry good fellows in England : to which is added, The marriage of Jockie and Jenny.</title>
+                  <author>T. R.</author>
+               </titleStmt>
+               <extent>[22] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere and J. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Thomas To-seek, the author T.R.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cuckolds.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:58378:1"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of a staff with a series of horns mounted upon it</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:58378:1" rendition="simple:additions"/>
+            <p>HEY FOR Horn Fair: The general Market of <hi>England.</hi>
+            </p>
+            <p>OR, Room for CUCKOLDS.</p>
+            <p>Being a Merry progreſs of nine ſeveral ſorts of CUCKOLDS here diſcovered. <hi>Viz.</hi>
+               <list>
+                  <item>A Kind Cuckold.</item>
+                  <item>A Dogged Cuckold.</item>
+                  <item>A Weeping Cuckold.</item>
+                  <item>A Merry Cuckold.</item>
+                  <item>A Contented Cuckold.</item>
+                  <item>A Proud Cuckold.</item>
+                  <item>A Jealous Cuckold.</item>
+                  <item>A Pimping Cuckold.</item>
+                  <item>And an Horn-mad Cuckold.</item>
+               </list>
+            </p>
+            <p>Full of mirth, and merry diſcourſe, newly preſented from <hi>Horn Fair</hi> to all the merry good Fellows in <hi>England.</hi>
+            </p>
+            <p>To which is added the Marriage of <hi>Jockie</hi> and <hi>Jenny.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>F. Coles, T. Vere,</hi> and <hi>J. Wright</hi> 1674.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:58378:2"/>
+            <head>The Caveat.</head>
+            <l>TO <hi>Cuckolds Haven</hi> I preſent,</l>
+            <l>Theſe merry Lines of mine:</l>
+            <l>This Jovial place in famous <hi>Kent,</hi>
+            </l>
+            <l>At <hi>Charleton</hi> you may find.</l>
+            <l>Where Gallants all, both great and ſmall,</l>
+            <l>For paſtime do repair;</l>
+            <l>Great pains they take, Horns for to make</l>
+            <l>And cry, Hey for <hi>Horn Fair</hi>
+            </l>
+         </div>
+      </front>
+      <body>
+         <div type="treatise_on_cuckolds">
+            <pb facs="tcp:58378:2"/>
+            <head>Hey for <hi>Horn Fair;</hi> Come Gentlemen, here will be gallant content for Money.</head>
+            <p>GEntlemen, this is to let you underſtand, that I do not in<g ref="char:EOLhyphen"/>tend to make you a Sermon at this merry Fair, according to the cuſtom: for truly, Gentlemen, I have not yet my Orders; but I hope by the next <hi>Horn Fair</hi> I ſhall be as ready for you, as any Citizens Wiſe, at <hi>Horn Fair</hi> can be ready for a Hey hoe my El<g ref="char:EOLhyphen"/>bow itches.</p>
+            <p>Well it is no matter, becauſe I have not a ſermon ready for you: you ſhall hear a Story ſhall be worth fif<g ref="char:EOLhyphen"/>téen. Hold a little, let me ſnuff my Candle, hers is a pure light.</p>
+            <p>Come who buyes my Horns? who buyes my Horns?</p>
+            <pb facs="tcp:58378:3"/>
+            <p> Satand by Gentlemen, let me look about me, yonder comes a pure Com<g ref="char:EOLhyphen"/>pany: I hope we ſhall have a gal<g ref="char:EOLhyphen"/>lant Fair, here is a fine day, and my Candle burns very clear.</p>
+            <p>Hold, hold what is yonder to do? What, no leſs then nine Coaches altogether? I pray let me look tho<g ref="char:EOLhyphen"/>row one of my Horns, and I can ſoon diſcover them: Oh here is a pure light. What a gallant Company is here? Eome along you pretty Ladies of <hi>London,</hi> I have for every one of you a new faſhion Fan made of a pure Horn: come along all you pretty wit<g ref="char:EOLhyphen"/>ty Dames of <hi>Southwark</hi> walking for Horn fair, here is dainty content I promiſe you.</p>
+            <p>O ſtrange! Stand back, here is a ſight indéed; pray take héed of your ſeldes. war Horns. What? nine ſe<g ref="char:EOLhyphen"/>veral ſorts of Cullabinds, and all together: Hold, hold, I am miſta<g ref="char:EOLhyphen"/>ken, I mean nine ſeverall ſorts of Cuckolds: bleſs my Horns to day for I am ſure there is ſome that can pocket up ſuch things, and never go to the Court to make Proclametion:
+<pb facs="tcp:58378:3"/>O pure Creatures! <hi>Kit</hi> the conten<g ref="char:EOLhyphen"/>ted Cuckold, and <hi>Debora Do-it,</hi> his Wife. I do profeſs ſhe is a pretty winking Rogue; ſée how ſhe winks of one eye at yonder Ruffeling Blade: for all his long Cuckabsard, his powdered hair? I am perſwa<g ref="char:EOLhyphen"/>ded he is one of my fellow Horn-ma<g ref="char:EOLhyphen"/>kers, and now he muſt go to the Ta<g ref="char:EOLhyphen"/>dern to play a Game at Tick-tack. I dare not ſpeak out. But it is no matter; for while ſhe is a playing one Game, he can take two pipes of Tobacco in the Ritchen. And truly he ſées nothing: but he hath the beſt Wifs in all <hi>London;</hi> for there is ne<g ref="char:EOLhyphen"/>ver a night that he goes to Supper, but he has ready provided a notable Coves-head, and ſometimes a Wood<g ref="char:EOLhyphen"/>cock, Nay ſhe has a great care on him beſides that; for ſhe makes ſure to provide him a good new Cap to put on his head, of her own making: but I am ſure it had néed be a great wide one, or elſe it will never come low enough for to hide his, Hee he, let me ſnuff my Candle, here is a pure light.</p>
+            <pb facs="tcp:58378:4"/>
+            <p> Nay yonder comes another couple What more Gameſters yet? What <hi>Will</hi> the Weader, a kind Cuckold, and <hi>Winiſred</hi> his Wife, ſée how neat<g ref="char:EOLhyphen"/>ly ſhe trips it out: Sée how kind the Cuckold is; for he is a fraid ſhe ſhould fall, and that makes him lead her ſo by the right arm: O but ſhe is as kind as he, for I will aſſure you that before <hi>Horn Fair</hi> be done, ſhe will be as bufie with ſome Gallant; for if ſhe but once get hold of his Noſe. I mean his night Noſe, and if ſhe but get hold by the end, ſhe will lead him an amble in the <hi>Cloath-Fair</hi> after five mile an hour.</p>
+            <p>Houſe, houſe! thou blind fool, what, cannot thou ſée my Horns? they be not ſo little; I can lend you a Look<g ref="char:EOLhyphen"/>ing glas if you cannot ſée, or elſe Ile ſnuff my candle: Oh here is a pure light, come who buyes my Horns.</p>
+            <p>Stand up and let me ſée my Cu<g ref="char:EOLhyphen"/>ſtomers: What? Maſter <hi>Prick</hi> the Tayler, a dogged Cuckold: ſée how he knits his brows as he walks along the ſtréet? but I dare ſay his Wife ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es but little for it; for while he
+<pb facs="tcp:58378:4"/>is a taking meaſure of his Cuſtomers abroad, ſhe has as good work-men at home, that can take meaſure of her as well as he, and fit her as well as her Husband can do: and ſometimes ſhe and her Gallants can take a Coach, and up to <hi>Hide Park,</hi> for to hear the pretty Birds fing; and I will aſſure you ſhe will be as ſpruce as the neateſt Lady among them. I and take as much upon her as the beſt Gameſter there. In ſooth, I am very glad he is gone paſt me, for I tell you truly I was afraid of my Horns; for I am confident he will have two or thrée pair to carry home before he leades Horn Fair; but truly he may thank his Loving Wife for them, for all he is ſo dogged with her: for I dare ſay: as nimble as he goes, he has not one penny in his pocket, but two Tokens beſides a bookin and a Thimble, will make a Taylors pocket gingle, Cuc<g ref="char:EOLhyphen"/>kow. Hark hark, I thought I heard the Cuckow ſing: peace you Whore, for if Maſter <hi>Prick</hi> hear you, he will be very angry with thée; ſo, ſo, now he is houſed, there will be Game by and by.</p>
+            <pb facs="tcp:58378:5"/>
+            <p> Now for a Game at hazzard, I lay my life: O dainty Horn Fair! what more Cuſtomers yet? Come along Gentlemen, Horns, horns, come, who buyes my horns? Give way Gentle<g ref="char:EOLhyphen"/>men, let me look about me, here is a pure light; Let me ſnuff my Candle, O curious Horn Fair? What, more Cuckolds ſtill? certainly horns will be cheap to day; ſée where the proud Cuckold goes, and another proud Prodigal leading his Wife, and he comes after her juſt like the Major of <hi>Horn Caſtle:</hi> I will aſſure you he thinks himſelfe a ſtout Blade with his Hanger by his ſide, and his great brown Boots as big as a pair of Wa<g ref="char:EOLhyphen"/>ter-bags in the North, I do verily believs they would go near to hold a whole Dicker of hot Pudding, and a brace of pottage-pots full of furmity: and a pair of Spurs as broad in the rowel, as the bréech of a young Child of thréeſcore and ten: and a Fea<g ref="char:EOLhyphen"/>ther brhind in his hat, as big as the But-end of a pair of Mil-ſtones, and that he wears behind in the out ſide of his Hat: but he wears a couple of Horns before, that are as big as ever
+<pb facs="tcp:58378:5"/>poor <hi>Tom</hi> carried on his back. Nay, I do beleive that all <hi>Lincolnſhire</hi> can<g ref="char:EOLhyphen"/>not compare with this proud Cuc<g ref="char:EOLhyphen"/>kold: O he is a pure Rogue! ſée, ſee how neatly be ſets his arms aſide, as big as two Rainbows; and I will aſ<g ref="char:EOLhyphen"/>ſure you he has as meny gingle jan<g ref="char:EOLhyphen"/>gles about his ears, as would ſerve a blind man to count a whole Sum<g ref="char:EOLhyphen"/>mers day. O what a pretty Duck he has to his Wife? I neat Dame I profeſs; O ſhe is a pure light to fol<g ref="char:EOLhyphen"/>low in a dark night!</p>
+            <p>How now? yonder comes another of his Brother Broad-heads, yonder comes Maſter <hi>Simpleton,</hi> but you may ſée he takes not all the care, for he has got a jolly red noſe, and a fiery face. Faith I think he begins to ſet his heart at reſt now adays. Sée, ſée where that Minikin Dame of his goes as proudly as my Lady <hi>Looſe behind,</hi> and as Indial a Horn<g ref="char:EOLhyphen"/>maker, as any lives in all the <hi>Temple</hi> with her; a Ruffling Blade I pre<g ref="char:EOLhyphen"/>miſe you. Indeed I am a fraid that Horns will be very cheap this Fair, for the Town is full of Horn-ma<g ref="char:EOLhyphen"/>kers,
+<pb facs="tcp:58378:6"/>Look, look, I thought what it would come to buy and by, ſée where Maſter <hi>Simpletons</hi> Wife, and a brave gallant rides in a Coach for <hi>London,</hi> I lay my life to one Bawdy-houſe or other: and ſée where the Simple Fool ſtands wéeping: this is his old cu<g ref="char:EOLhyphen"/>ſtome: a right Simpleton indéed: juſt the trick of an Aſs, for when any thing diſturbs him, then preſently he will begin to roar: and ſo doth this ſimple Aſs his Brother, when he thinks he is or ſhall be made a Cuc<g ref="char:EOLhyphen"/>kold; then he ſits him down, and wéeps, O ſimple Ident, hold up thy head, and come buy ſome Horns at Horn Fair.</p>
+            <p>Hark how the very Fowles in the air laughs thée to ſcorn. Hark Cuc<g ref="char:EOLhyphen"/>kow, Cuckow: hold thy Tongne pretty Bird, he ſays he cannot help it. Hey brave, what more Cuckolds ſtill? Sée where Maſter <hi>Jealous</hi> comes as yellow as the Gold on his fin<g ref="char:EOLhyphen"/>ger. O baſe Rnave to be jealous of thy Wife without a cauſe: thou haſt brought her to this evil vice by thy jealous head: for ſhe was as bo<g ref="char:EOLhyphen"/>neſt
+<pb facs="tcp:58378:6"/>a woman before thou didſt begin to be jealous of her, as ever rid in <hi>Hackney</hi> Coach with a painted face, and Patches: then the jealous Fool could not let her a lone, but was al<g ref="char:EOLhyphen"/>wayes calling her <hi>Hackney,</hi> Whore when alaſs, poor ſoul, ſhe had no more mind to make him Cuckold, then a ſcabbed horſe has to rub himſelf on a trée. Yet now I to beletve ſhe has learned her Trade pretty well; and that makes him to drive her before him like a ſhéep: juſt like the Stag in the Forreſt, that doth drive the Doe before him: ſo doth this jealous Cuckold drive his Wife before him, and all for fear that ſome Knavs ſhould ſteal her away, and make him a Cuckold: but take my word ſhe has learned a trick now, that ſhe can fit him in his kind: for now if ſhe but ſée any of her Cuſtomers, then ſhe ſtrait points with her finger: that is as much as to ſay, go into ſome Ta<g ref="char:EOLhyphen"/>vern and I will follow. Then ſhe ſayes to her Huſband, good ſwéet<g ref="char:EOLhyphen"/>heart will you give me a pint of Wine at yonder Tavern; he not de<g ref="char:EOLhyphen"/>nying
+<pb facs="tcp:58378:7"/>her, goes in, and there méets with her Cuſtomer in a room by him<g ref="char:EOLhyphen"/>ſelf; he deſires their company, becauſe he is all alone: So they do con<g ref="char:EOLhyphen"/>ſent to ſit altogether, her Huſband not knowing the plot, there they fall to drinking Sack, till the jealous Cuckold falls faſt aſléep: Then ſhe and her companion preſently takes Coach, and away to a Vaulting-houſe, while the poor Cuckold lies aſléep with his face downwards, for fear any ſhould wrong his Horns while he ſléeps, and all that while ſhe lies on her back with her eye fixed up<g ref="char:EOLhyphen"/>ward like a Star-gazer.</p>
+            <p>O pure company! a Knave and a Quéen is a pair: O brave come a<g ref="char:EOLhyphen"/>long Gentlemen, come buy my Horns quickly, I pray you; I would fain be gone, I cannot ſtand ſtill, Sée, ſée, I pray you, where the merry Cuc<g ref="char:EOLhyphen"/>kold comes? I dare ſay, he will be as merry as the Meuſe in the Malt: Sée how he ſmiles as he goes before his Wife. And ſo how ſhe winks on her companions to méet her at the
+<pb facs="tcp:58378:7"/>Tuckolds Haven, to ſing one merry ſtrain for the honour of <hi>Horn Fair.</hi>
+            </p>
+            <p>I will aſſnre you, you never heard ſuch a merry Story told in a Horn Fair Sermon in all your life, as this merry Cuckold will tell, when he and his loving wife comes into <hi>Horn Fair:</hi> for then he is ſure to have good ſtore of Wine, Ale, Béer. and Tobacco: And ſometimes his Wife will thruſt halfe a Crown in his hand, and bid him go drink that among his frinds, while ſhe has a little civil talk with a friend of hers; ſo he thinking he has ſped well, he goes his way ſinging as merrily, as ever you heard the mad men of <hi>Go<g ref="char:EOLhyphen"/>thams</hi> Bird ſing in <hi>May; <hi>I,</hi>
+               </hi> and oft he bad as many pretty tunes with him.</p>
+            <p>But bold hold yonder comes the verieſt Knave in all <hi>England,</hi> a pitti<g ref="char:EOLhyphen"/>ful pimping Rogue: See how he goes péeping and ſpying about him? For ſome ruffling Blade that hath more M eney then Honeſty. This fellow is the greateſt maintainer of <hi>Horn-Fair,</hi> of any man in all <hi>London;</hi> for
+<pb facs="tcp:58378:8"/>when he méets with any brave Gal<g ref="char:EOLhyphen"/>lants that hath a deſire to have a Game or two at <hi>Have at all you pretty Ladyes,</hi> then ſtraight he is ſet at work to fetch in Gameſters: For he kéeps as good of his own as ever Rid <hi>Hackney</hi> to <hi>Hide Park.</hi> O ſhe is a pure Rogue! I dare lay any man half a couple of nothings, that ſhe beats the beſt Gameſter in all <hi>Horn Fair,</hi> thrée for one: And to be ſure ſhe muſt be fetcht firſt, for he I loſe nothing; and while ſhe is playing a Game or two at lay her down eaſie, he runs down to the Vintner for a quart of Sack very well burn'd with Sugar, for the Gameſters, and this is the pimping Cuckolds condition: Take my word if there be not ſome courſe taken with him, <hi>Horn Fair</hi> will not be worth coming to, he doth cauſe ſo many Horns to be made. Out upon him Villain that ſéeks to bring a good Fair to nothing: Vpon my little honeſty, it were a very good déed to have him ſton'd out of the Town, for I think he has non; nay, he is not fit to-ſtay in our ſociety, but for
+<pb facs="tcp:58378:8"/>one thing, and that is this; he never comes to <hi>Horn Fair,</hi> but he carries two or thrée pair home with him, and that they be lovely horns indéed: For I dare ſay he wears one pair thus big, and they at leaſt be twenty years old.</p>
+            <p>Come, ſtand off, and let me ſnuff my Candle, and look about me, Cuc<g ref="char:EOLhyphen"/>kow, Cuckow. Hold, hold, make room for yonder comes the horn-mad Cuckold, ſée how big he looks? I do believe you never ſaw Bull look more ſternly at a Butchers Dog, then he looks. I pray you Gentlemen mind him well, you may chance to know him; and if you do not. I do: It is that great fiery-fac't Villain, that ga<g ref="char:EOLhyphen"/>thers up all the eye.</p>
+            <p>Hold a little, crys the Piper, Ile play no more of that Tune, for fear Knaves ſhould dance it more then ho<g ref="char:EOLhyphen"/>neſt men: but I pray ſée how ſtoutly the Cuckold goes with a long Turd by his ſide; nay, but ſtay a little, I had like to a ſtumbled: A long Sword by his ſide, and a pretty neat fools Feather in his Hat behind: But if
+<pb facs="tcp:58378:9"/>you look him in the face, you will bleſs ye: For if you will believe me when you hear the truth, he has a pair of Horns growing on his head a this fa<g ref="char:EOLhyphen"/>ſhion, as big and as wide as any maid can lay her legs for a fit of hey ho, e<g ref="char:EOLhyphen"/>nough of that.</p>
+            <p>I pray ſtand a little further, I, but look a little yonder: Sée where that pretty ſwéet ſoul his Wife goes, a pure pretty do what you will Gentle<g ref="char:EOLhyphen"/>men; here is gallant ware for your Money, and enough of it I will war<g ref="char:EOLhyphen"/>rant you: Sée what a pretty leg and a foot. I proteſt it is enough to make a man a Whore, if he never ſée nothing but Mil-ſtones. O dainty <hi>Horn Fair,</hi> thou art the flower of all <hi>Kent</hi> for gal<g ref="char:EOLhyphen"/>lant ware. O puae light, horn of all ſorts. Thus big, bo.</p>
+            <p>Well, now I think <hi>Horn Fair</hi> is al<g ref="char:EOLhyphen"/>moſt done for this day: But ſée, ſée where all the gallant merry jovial hearted Butchers of <hi>London</hi> and <hi>Southwark,</hi> all for one merry Cup at the <hi>Cuckows Haven:</hi> I will lay my life they muſt néeds have a parting cup before they go, O brave Boys
+<pb facs="tcp:58378:9"/>promiſe <hi>you:</hi> Tanners <hi>I</hi> pray you look about you: For take my word the Butchers be ſtont Blades. There<g ref="char:EOLhyphen"/>fore I pray you take héed, and ſay <hi>Tom To-ſeek</hi> gave you a fair warning, for if your Wives be in Town, you may very well carry home the Horns: For take my word here is tearing Blades in Town. For you know Maſter <hi>Tanner,</hi> you are but the But<g ref="char:EOLhyphen"/>chers ſervant, to carry his Horns a<g ref="char:EOLhyphen"/>way when he is at home: Therefore I pray you do not think much if the Butcher out of his love give you a pair fréely to carry home, for a Horn Fairing.</p>
+            <p>O ſtrange! The nearer night, the more honeſt men: I pray ſée where comes the jovial Shooe-makers, I profeſs a company of gallant Blades. I am perſwaded they do intend to méet the Tanners at the <hi>Cuckows Haven,</hi> to ſée if the Tanners have a good horn to give them, for to make them Shooing-horns: for <hi>I</hi> am per<g ref="char:EOLhyphen"/>ſwaded they can give the Tanners one, when they will: For you know Shoo-makers cannot very well bring
+<pb facs="tcp:58378:10"/>Shooes home; but they muſt bring Shooing-horns with them, and if they chance to leave the Tanners a pair in love? Why ſhould they be angry? For they are valliant Blades, and of ano<g ref="char:EOLhyphen"/>ther Blood, and ſcorns to ſit out for a ſcratch on the Forehead.</p>
+            <p>So, ſo, now I think <hi>Horn Fair</hi> is done for this day for Horns, except it be in the <hi>Cloath Fair,</hi> and there will be great doing, I dare ſay. For there will be as many Horns made in one night. as will ſerve all the Combma<g ref="char:EOLhyphen"/>kers in <hi>London,</hi> this two thouſand thrée hundred thirty five Years to make Combs on: But if they do not ſerve, there is enow making every day and night.</p>
+            <p>And now Gentlemen, the Fair is done, 'tis time for me to ſhut up ſhop, for my Candle is allmoſt out. I have already declared unto you the merry Paſtime of <hi>Horn Fair,</hi> and opened un<g ref="char:EOLhyphen"/>to you a Cabinet of Nine ſeveral ſorts of Cuckolds: And that is to ſay,</p>
+            <p>The Kind Cuckold. The Con<g ref="char:EOLhyphen"/>tented Cuckold, The Dogged Cuc<g ref="char:EOLhyphen"/>kold.
+<pb facs="tcp:58378:10"/>The Proud Cuckold. The Ieaious Cuckold. The merry Cuc<g ref="char:EOLhyphen"/>kold. The Pimping Cuckold. The Wéeping Cuckold. And the Horn<g ref="char:EOLhyphen"/>mad Cuckold.</p>
+            <p>And now I will ſing you a jovial Song of <hi>Horn Fair,</hi> and ſo fare<g ref="char:EOLhyphen"/>wel.</p>
+            <div type="ballad">
+               <head>The Song.</head>
+               <opener>The Tune is, To get in order your Maiden-Head again.</opener>
+               <lg>
+                  <l>COme all you gay Ladies that lives in the City.</l>
+                  <l>Come hearken the ſtory which here Ile declare:</l>
+                  <l>And all you brave Gallants that loves a Maid pretty</l>
+                  <l>Provide you a Coach, and away to Horn Fair.</l>
+               </lg>
+               <lg>
+                  <l>There is dainty good Chear, and all of the beſt.</l>
+                  <l>Content for your Money, pray think it no ſcorn.</l>
+                  <pb facs="tcp:58378:11"/>
+                  <l> For you Ferret a Cunny, if I may break a jeaſt;</l>
+                  <l>What though many a honeſt man doth wear the Horn?</l>
+               </lg>
+               <lg>
+                  <l>You may have ſtrong Beer and Wine of the beſt.</l>
+                  <l>'Tis not good to go faſting from morning till night;</l>
+                  <l>With a pretty ſweet Pigeon you drink to digeſt,</l>
+                  <l>With an eye as clear as the Stars that gives light:</l>
+               </lg>
+               <lg>
+                  <l>With a plump cherry cheek, as red as a Roſe,</l>
+                  <l>In ſilk and brave Sattin ſhe goes every day;</l>
+                  <l>With her Fan and her Feather moſt brave<g ref="char:EOLhyphen"/>ly ſhe ſhows,</l>
+                  <l>Come along you brave Gallants, you ſhall have fair play.</l>
+               </lg>
+               <p>
+                  <hi>And now Gentlemen, that you may know that you are welcome to</hi> Horn Fair, John Presby<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>bids me in the behalfe of his Country-men to invite you to the Wedding of</hi> Jocky.
+<pb facs="tcp:58378:11"/>
+                  <hi>and</hi> Jenny, <hi>which is in a ſet Form, as followeth.</hi>
+               </p>
+            </div>
+            <div type="description_of_a_Scottish_marriage">
+               <head>A Scottiſh Marriage.</head>
+               <p>WE dont uſe to Wad in <hi>Scotland</hi> as you Wad in <hi>England: Jocky</hi> comes to the Kirk, and takes Sir <hi>Donkyn</hi> by the Rochet, and ſays, Good morn Sir <hi>Donkyn.</hi> What's the matter <hi>Jocky?</hi> What's the matter A wadding, a wadding; a wadden ſays he: Deant you ſee the Hoppits, and the Skippits, and the Belloons, and all the Lads of the Gang? Iſe doe, Iſe do, Iſs come to you belive. Then Sir <hi>Donkyn</hi> gangs to the Kirk, I ſpée and I ſpée; hoe a deals doe you ſpée; <hi>Jocky</hi> of the <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gh Lone, and <hi>Jenny</hi> of the Long Cuffe: If any one know why theſe two might not be wadded together; let them now ſpeak, or hold their veene tongues in the Deals name. <hi>Jocky,</hi> wilt thou ha <hi>Jenny</hi> to thy waoded wife: I ſha, <hi>Jocky</hi> ſan after me: I ſha, <hi>Jocky</hi> wilt thon ha <hi>Jenry</hi> to thy waded wife, to
+<pb facs="tcp:58378:12" rendition="simple:additions"/>be, and to ha, for over and ever; for<g ref="char:EOLhyphen"/>ſaking all Loons, Lubber Loons, Swig-bellied Calves, black Lips, &amp; Blue Noſes; ay forſooth. If theſe tway be not as well wadded as ere I waded tway theſe ſeaven years, the Deal and Saint <hi>Andrew</hi> part them.</p>
+               <closer>
+                  <signed>I am yours in Love and Mirth, <hi>Thomas To-ſeek</hi> the Author T. R.</signed>
+               </closer>
+            </div>
+            <pb facs="tcp:58378:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
